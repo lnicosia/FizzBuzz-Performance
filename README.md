@@ -1,6 +1,6 @@
 # FizzBuzz-Performance
 Program testing multiple version of the infamous FizzBuzz test to compare performance
-It is usefull just to try to get the best code possible or just to compare some small c/c++ things (for example, is it faster with **bold for** or **bold while** loops?)
+It is usefull just to try to get the best code possible or just to compare some small c/c++ things (for example, is it faster with **for** or **while** loops?)
 
 ## FizzBuzz
 
